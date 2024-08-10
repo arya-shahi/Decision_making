@@ -25,4 +25,10 @@ int main() {
     else
     {cout <<"The point is at origin";}
     return 0;
-}
+} 
+/* OUTPUT
+Enter Coordinates
+Enter x(Xaxis): 5
+Enter y(Yaxis): 5
+The point is in first quadrant
+*/
