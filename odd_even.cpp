@@ -15,3 +15,7 @@ else
     return 0;
 }
 
+/* OUTPUT
+  Enter a number: 7
+The number is not even.
+  */
