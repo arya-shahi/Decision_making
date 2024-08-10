@@ -41,3 +41,13 @@ int main() {
     }
     return 0;
 }
+
+/* OUTPUT
+Enter the marks out of 100
+Enter marks1: 87
+Enter marks2: 65
+Enter marks3: 77
+Enter marks4: 45
+Enter marks5: 55
+Grade B+
+    */
