@@ -1,0 +1,28 @@
+//arya shahi
+//23070123030
+//Aim - to find quadrants of coordinates
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int num1,num2;
+    cout << "Enter Coordinates" << endl;
+    cout << "Enter x(Xaxis): ";
+    cin >> num1;
+    cout << "Enter y(Yaxis): ";
+    cin >> num2;
+    if(num1>0 && num2>0)
+    {cout <<"The point is in first quadrant";}
+    else if(num1<0 && num2>0)
+    {cout <<"The point is in second quadrant";}
+    else if(num1<0 && num2<0)
+    {cout <<"The point is in third quadrant";}
+    else if(num1>0 && num2<0)
+    {cout <<"The point is in fourth quadrant";}
+    else if((num1==0 && num2!=0) ||(num1!=0 && num2==0))
+    {cout <<"The point is on axis";}
+    else
+    {cout <<"The point is at origin";}
+    return 0;
+}
