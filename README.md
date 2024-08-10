@@ -9,7 +9,6 @@ VS Code
 Decision-making is a concept that allows the execution of different code paths based on conditions. The if and else statements are primary constructs used for decision-making in  C++. These constructs enable the implementation of conditional logic. They help us check whether a condition is true and if it is, then the block inside the same is executed.  
 
 ## Algorithm
-### Quadrant Checker
 
 1. **Start**
 
