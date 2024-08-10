@@ -29,3 +29,10 @@ else
     return 0;
 }
 
+/* OUTPUT
+Enter number 1: 6
+Enter number 2: 7
+Enter number 3: 5
+7 is the largest number.
+  */
+
